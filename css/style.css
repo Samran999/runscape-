@@ -1,0 +1,204 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "montserrat", sans-serif;
+}
+::webkit-scrollbar {
+  display: none;
+}
+.main {
+  height: 379px;
+}
+.sellnow {
+  padding: 4px 42px;
+  background-color: #f09938;
+
+  /* padding-top: 10px; */
+}
+.payment-methods {
+  /* margin: 0px; */
+  display: flex;
+}
+.verifiedbox {
+  display: flex;
+}
+.twenty-four-hours {
+  display: inline-flex;
+}
+.paypal {
+  order: 1px solid #fff;
+  background-color: #fff;
+  width: 217px;
+  height: 138px;
+  padding: 35px;
+  margin-left: 23px;
+}
+.bitcoin {
+  order: 1px solid #fff;
+  background-color: #fff;
+  width: 217px;
+  height: 138px;
+  padding: 35px;
+  margin-left: 23px;
+}
+.skrill {
+  order: 1px solid #fff;
+  background-color: #fff;
+  width: 217px;
+  height: 138px;
+  padding: 35px;
+  margin-left: 23px;
+}
+.visa {
+  order: 1px solid #fff;
+  background-color: #fff;
+  width: 217px;
+  height: 138px;
+  padding: 35px;
+  margin-left: 23px;
+}
+.etherum {
+  order: 1px solid #fff;
+  background-color: #fff;
+  width: 217px;
+  height: 138px;
+  padding: 35px;
+  margin-left: 23px;
+}
+
+.youtube-video-img {
+  position: relative;
+}
+.button {
+  position: absolute;
+  /* top: 172%;
+    left: 34%; */
+  /* transform: translate(-50%, 50%); */
+}
+.cartoon-container {
+  position: absolute;
+  left: 70%;
+  bottom: -155%;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.cartoon-box {
+  width: 80px;
+}
+.cartoon {
+  width: 200px;
+}
+.buttons {
+  margin-top: 7rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.time {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin-left: 0;
+  margin-right: 0; */
+  width: 350px;
+  height: 300px;
+  margin-left: 2rem;
+  background-color: #fff;
+  padding: 5px;
+}
+.time-img {
+  margin-top: -10rem;
+  margin-bottom: 2rem;
+}
+.text {
+  text-align: center;
+  font-weight: 800;
+  font-size: 1.1em;
+  /* font-family: "montserat", sans-serif; */
+}
+.text-p {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: small;
+}
+.fraud {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin-left: 0;
+    margin-right: 0; */
+  width: 350px;
+  height: 300px;
+  margin-left: 2rem;
+  background-color: #fff;
+  padding-left: 2px;
+  padding: 5px;
+}
+.security {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 2rem;
+  /*margin-right: 0; */
+  width: 350px;
+  height: 300px;
+  /* margin-left: 20rem; */
+  background-color: #fff;
+  padding: 5px;
+  padding-left: 2px;
+}
+.three-fill {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
+.img {
+  margin: 0.5rem;
+}
+.box-2-box {
+  position: relative;
+}
+.box-two {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4rem;
+}
+.box-two h1 {
+  color: #fff;
+  margin-bottom: 3rem;
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+.box-3-box {
+  color: #fff;
+  background-color: #1e242e;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: flex-start;
+  padding: 25px;
+  width: 1000px;
+}
+.box-3-box h2 {
+  font-weight: 800;
+  font-size: medium;
+}
+.box-3-box p {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-size: smaller;
+}
+.cylinder {
+  position: absolute;
+  top: 75%;
+  left: 1%;
+}
